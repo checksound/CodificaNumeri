@@ -18,4 +18,6 @@
 
 [Floating-Point Math](./FloatingPoints.pdf)
 
+[Introduzione e applicazioni di ARITMETICA MODULARE - Prof. Bruno Picasso](./Aritmetica_modulare_vers_22_Marzo_2020.pdf)
+
 
