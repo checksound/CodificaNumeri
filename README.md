@@ -20,6 +20,8 @@
 
 [Introduzione e applicazioni di ARITMETICA MODULARE - Prof. Bruno Picasso](./Aritmetica_modulare_vers_22_Marzo_2020.pdf)
 
+[HANDBOOK of FLOATING-POINT ARITHMETIC](./epdf.pub_handbook-of-floating-point-arithmetic.pdf)
+
 ## ESERCIZI
 
 [Sistemi numerici: numeri senza segno](./es1_ris.pdf)
