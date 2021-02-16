@@ -20,4 +20,12 @@
 
 [Introduzione e applicazioni di ARITMETICA MODULARE - Prof. Bruno Picasso](./Aritmetica_modulare_vers_22_Marzo_2020.pdf)
 
+## ESERCIZI
+
+[Sistemi numerici: numeri senza segno](./es1_ris.pdf)
+
+[Sistemi numerici: numeri con segno](./es2_ris.pdf)
+
+[Sistemi numerici: numeri in virgola mobile](./es3_ris.pdf)
+
 
